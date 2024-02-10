@@ -4,7 +4,7 @@ This project is a simple web application that converts text input into audio out
 
 ## Demo
 
-[![Demo](img.png)](https://itswasabi101.github.io/TextToSpeech/)
+[![Demo](screenshot/img.png)](https://itswasabi101.github.io/TextToSpeech/)
 
 Click the image above to see a live demo of the project.
 
@@ -25,4 +25,4 @@ How it Works
 The application uses the Web Speech API to synthesize speech from text input. The user can type or paste text into the input field, adjust the speech rate and pitch using the sliders, and then click the "Speak" button to hear the text spoken aloud.
 
 
-![Screenshot](screenshot/img.png)
+
