@@ -21,7 +21,7 @@ Click the image above to see a live demo of the project.
    git clone https://github.com/yourusername/text-to-speech.git
 2. Execute the index.html website 
 
-How it Works
+How it Works :
 The application uses the Web Speech API to synthesize speech from text input. The user can type or paste text into the input field, adjust the speech rate and pitch using the sliders, and then click the "Speak" button to hear the text spoken aloud.
 
 
